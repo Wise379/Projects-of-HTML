@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>How to prepare Creamy pasta with recipe </title>
+  </head>
+    <body>
+      <h1>Creamy Pasta</h1>
+      <p>Welcome to the ultimate guide for making Creamy Pasta, Creamy pasta is one of the easiest and tastiest meals you can make. it's quich, filling, and perfect for days when you want something comforting without spending too much time in the kitchen.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseRkXwBvnhk7fhyJuFsVqeluaR1JHqhOy7A&s" alt="a picture of Creamy pasta." width="300">
+      <h2>Ingredients</h2>
+    <ul>
+       <li>250g pasta(spaghetti or penne)</li>
+       <li>2 tablespoons vegetable oil or butter</li>
+       <li>2 cloves garlic(chopped)</li>
+       <li>1 small onion(chopped)</li>
+       <li>1 cup cooking cream or milk</li>
+       <li>0.5 cup grated cheese</li>
+       <li>salt (to taste)</li>
+       <li>Black pepper (to taste)</li>
+       <li><i>optional</i> : chicken, mushrooms, or vegetables</li>
+    </ul>
+
+    <h2> Instructions</h2>
+    <ol>
+      <li>Boil the pasta in salted water according to the package instruction. Drain and set aside.</li>
+      <li>Heat oil or butter in apan over medium heat.</li>
+      <li>Add onion and garlic, then sauté until soft and frangrant.</li>
+      <li>Add chicken or vegetables if using, and cook until done.</li>
+      <li>Pour in the cream (or milk) and stir gently.</li>
+      <li>Add salt, black pepper, and cheese. Let it simmer for 2-3 minutes.</li>
+      <li>Add the cooked pasta and mix well until coated with the sauce.</li>
+      <li>Remove from heat and serve hot.</li>
+      
+    </ol>
+      
+     </body>
+  
+</html>
+
+** end of index.html **
+
